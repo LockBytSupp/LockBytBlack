@@ -2,7 +2,9 @@
 LockByt Ransomware Builder
 
 <img src="https://gistcdn.githack.com/johndward01/95c1d09de9e3707cfb4154989962376d/raw/f74007782421219d9e9ab4b6a27de2e172a8b714/csharp-logo.svg" alt="C#" width="64" height="64" />
+
 ## Warning
+
 Do **NOT** Expect this to be Fast as LockBit, Due to Limitations of .NET 4 (C#) this is the best i could do,LockBit is written in Native Language (C) it is **DEFINITELY** faster Than LockByt
 
 ## Features
