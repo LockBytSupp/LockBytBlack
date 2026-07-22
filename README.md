@@ -5,10 +5,11 @@ LockByt Ransomware Builder
 
 ## Warning
 
-Do **NOT** Expect this to be Fast as LockBit, Due to Limitations of .NET 4 (C#) this is the best i could do,LockBit is written in Native Language (C) it is **DEFINITELY** faster Than LockByt
+Do **NOT** Expect this to be Fast as LockBit, Due to Limitations of .NET 4 (C#) this is the best i could do,LockBit is written in a Native Language (C) it is **DEFINITELY** faster Than LockByt
 
 ## Features
-- **XChaCha with Configurable Rounds** (8/12/20)
+- **Algorithm Switching**
+- **XChaCha/XSalsa with Configurable Rounds** (8/12/20)
 - **RSA with Configurable Bits** (1024/2048/3072/4096)
 - **Backup Wipe**
 - **Parallel Tuner**
